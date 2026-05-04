@@ -2,9 +2,13 @@
 
 ## Introduction
 
-*The organization's name has been modified for confidentiality reasons. This document corresponds to a real case study conducted in a corporate environment; the analyses, findings, and recommendations are based on information obtained from said environment.*
-
 **BioTerra** is a biofuel production industry, primarily focused on ethanol, from which sub-products like dried distillers grains with solubles (DDGS) and oil are derived. Additionally, it operates two biogas plants fueled by production waste. The entire operation exists in a **100% On-Premise** environment where **IT/OT convergence** is the core of the business, and where ensuring operational continuity and data integrity is the central objective of the cybersecurity strategy.
+
+*Note on Confidentiality: The organization's name has been modified for privacy. This document represents a real-world case study; all analyses, findings, and strategic recommendations are based on authentic data from a live corporate environment.*
+
+*This risk assessment was developed as a final capstone project for the Cybersecurity Diploma at UBP University.*
+
+*Collaboration: The project was a collaborative effort with a cybersecurity colleague currently employed at the analyzed organization.*
 
 ## Organizational Profile — Critical Assets
 
